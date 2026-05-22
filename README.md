@@ -1,1 +1,1 @@
-# SoftIto  dosylaları dosyaları
+# SoftIto  eğitim dosyaları
