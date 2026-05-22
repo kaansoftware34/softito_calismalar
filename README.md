@@ -1,1 +1,1 @@
-# SoftIto-python_eğitim dosyaları
+# SoftIto  dosylaları dosyaları
